@@ -12,6 +12,8 @@ Current AI memory architectures default to one of two strategies: full context w
 
 This paper introduces the **Yggdrasil Memory Model (YMM)**, a graph-structured memory architecture inspired by spreading activation theory in cognitive science. YMM organizes memory into living trees of weighted branches, with compressed semantic anchors — referred to as *hints* or *fruits* — distributed across branches rather than concentrated in a single root. Recollection is modeled as a flow-based traversal: incoming contextual signals activate branch pathways, accumulate weight, and converge on the most contextually relevant fruit. Hints are not static records but living anchors updated through a nutrient reinforcement mechanism on every activation. The model is self-organizing, temporally adaptive, and resolves several key limitations of existing retrieval architectures.
 
+
+      <img width="138" height="150" alt="Image" src="https://github.com/user-attachments/assets/930edfa5-f823-4f79-bcc7-7786e6d2e4d6" />
 ---
 
 ## Contents
